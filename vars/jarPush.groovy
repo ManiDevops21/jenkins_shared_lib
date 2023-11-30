@@ -1,6 +1,6 @@
 def call(){
-    sh "chmod +x -R ./jfrog.py"
-    sh './jfrog.py'
+  sh "chmod +x -R ./jfrog.py"
+  sh './jfrog.py'
 }
 
    
